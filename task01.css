@@ -1,0 +1,14 @@
+ .box{
+     width:99%;
+     display: block;
+     margin-right: 2.5%;
+     margin-left: 2.5% ;
+
+ }
+ .box1{
+     margin:1%;
+     padding:15% ;
+     border-radius: 30px;
+     background-color: yellow;
+     float: left;
+ }

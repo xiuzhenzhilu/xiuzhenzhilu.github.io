@@ -33,9 +33,11 @@ img{
     /*margin-left:184px;*/
     position: absolute;
     top:100px;
+    left:50%;
+    margin-left:-90.5px;
     /*left:190px;*/
     /*left:50%;*/
-    right:40%;
+    /*right:40%; */
     width: 181px;
     height: 70px;
 }

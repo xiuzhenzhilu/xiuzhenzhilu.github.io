@@ -49,8 +49,8 @@ img{
     top:35%;
     /*width: auto;*/
     /*left:86px;*/
-    left:20%;
-    right:20%;
+    margin-left:20%;
+    margin-right:20%;
     text-align:left;
     /*width:450px;*/
     /*height:91px;*/
